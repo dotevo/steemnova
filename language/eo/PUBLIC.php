@@ -26,67 +26,67 @@ $LNG['siteTitleBattleHall']			= 'Bataloj';
 $LNG['siteTitleRules']				= 'Reguloj';
 $LNG['siteTitleNews']				= 'Novaĵoj';
 $LNG['siteTitleDisclamer']			= 'Kontaktoj';
-$LNG['siteTitleLostPassword']		= 'Lost Password?';
+$LNG['siteTitleLostPassword']		= 'Perdita pasvorto?';
 
 // Menu
-$LNG['forum']						= 'Forum';
-$LNG['menu_index']					= 'Index';
-$LNG['menu_news']					= 'News';
-$LNG['menu_rules']					= 'Rules';
-$LNG['menu_banlist']				= 'Banned Hall';
-$LNG['menu_battlehall']				= 'Battle Hall';
-$LNG['menu_disclamer']				= 'Contacts';
-$LNG['menu_register']				= 'Registration';
+$LNG['forum']						= 'Forumo';
+$LNG['menu_index']					= 'Indekso';
+$LNG['menu_news']					= 'Novaĵoj';
+$LNG['menu_rules']					= 'Reguloj';
+$LNG['menu_banlist']				= 'Halo de forbaritaj';
+$LNG['menu_battlehall']				= 'Halo de bataloj';
+$LNG['menu_disclamer']				= 'Kontaktoj';
+$LNG['menu_register']				= 'Registriĝi';
 
 // Universe select
-$LNG['chose_a_uni']					= 'Choose the Universe';
-$LNG['universe']					= 'Universe';
-$LNG['uni_closed']					= ' (closed)';
+$LNG['chose_a_uni']					= 'Elektu la universon';
+$LNG['universe']					= 'Universo';
+$LNG['uni_closed']					= ' (fermita)';
 
 // Button
-$LNG['buttonRegister']				= 'Regist Now!';
-$LNG['buttonScreenshot']			= 'Screenshots';
-$LNG['buttonLostPassword']			= 'Lost Password?';
+$LNG['buttonRegister']				= 'Registriĝu nun!';
+$LNG['buttonScreenshot']			= 'Ekrankopioj';
+$LNG['buttonLostPassword']			= 'Perdita pasvorto?';
 
 // Start
 $LNG['gameInformations']    		= "A space strategy game in real time.\nGame with hundreds of users.\nNo download, it only requires a standard browser.\nFree registration";
 
 // Login
-$LNG['loginHeader']					= 'Login';
-$LNG['loginUsername']				= 'Username';
-$LNG['loginPassword']				= 'Password';
-$LNG['loginButton']					= 'Login';
-$LNG['loginInfo']					= 'With the login I accept the %s.';
-$LNG['loginWelcome']				= 'Welcome to %s';
+$LNG['loginHeader']					= 'Ensaluti';
+$LNG['loginUsername']				= 'Uzantnomo';
+$LNG['loginPassword']				= 'Pasvorto';
+$LNG['loginButton']					= 'Ensaluti';
+$LNG['loginInfo']					= 'Per ensaluto mi akceptas %s.';
+$LNG['loginWelcome']				= 'Bonvenon en %s';
 $LNG['loginServerDesc']				= '%s is a space strategy game with hundreds of players playing together <strong>at the same time</strong> trying to be the best. Everything what you need to the play is a Standard Browser.';
 
 // Register
-$LNG['registerFacebookAccount']		= 'Facebook Account';
-$LNG['registerUsername']			= 'Username';
-$LNG['registerUsernameDesc']		= 'The Username must be at least 3 and maximum of 25 characters and points, and may consist of numbers, letters, underscores and spaces';
-$LNG['registerPassword']			= 'Password';
-$LNG['registerPasswordDesc']		= 'The password must be at least 8 characters long.';
-$LNG['registerPasswordReplay']		= 'Repeat Password';
-$LNG['registerPasswordReplayDesc']	= 'Please enter the same password.';
-$LNG['registerEmail']				= 'E-Mail';
-$LNG['registerEmailDesc']			= 'Please enter your E-Mail address!';
-$LNG['registerEmailReplay']			= 'Repeat E-Mail';
-$LNG['registerEmailReplayDesc']		= 'Please input of your email address once again to the security!';
-$LNG['registerLanguage']			= 'Language';
+$LNG['registerFacebookAccount']		= 'Fejsbuka konto';
+$LNG['registerUsername']			= 'Uzantnomo';
+$LNG['registerUsernameDesc']		= 'La uzantnomo povas enhavi 3-25 signojn (nombrojn, leterojn, substrekoj kaj spacoj)';
+$LNG['registerPassword']			= 'Pasvorto';
+$LNG['registerPasswordDesc']		= 'Minimume 8 signoj';
+$LNG['registerPasswordReplay']		= 'Ripetpasvorto';
+$LNG['registerPasswordReplayDesc']	= 'Enskribu la saman pasvorton';
+$LNG['registerEmail']				= 'Retpoŝto';
+$LNG['registerEmailDesc']			= 'Enskribu vian retpoŝtan adreson!';
+$LNG['registerEmailReplay']			= 'Ree Retpoŝto';
+$LNG['registerEmailReplayDesc']		= 'Reenskribu vian retpoŝtan adreson!';
+$LNG['registerLanguage']			= 'Lingvo';
 $LNG['registerReferral']			= 'Advertised by:';
 $LNG['registerCaptcha']				= 'Security code';
-$LNG['registerCaptchaDesc']			= 'Please enter the characters below in the empty field. There does not have case sensitivity';
-$LNG['registerCaptchaReload']		= 'Reload Captcha.';
-$LNG['registerRules']				= 'Rules';
-$LNG['registerRulesDesc']			= 'I agree with the %s';
+$LNG['registerCaptchaDesc']			= 'Enskribu signojn el suba bildo. Kaza sentiveco ne gravas';
+$LNG['registerCaptchaReload']		= 'Reŝargi.';
+$LNG['registerRules']				= 'Reguloj';
+$LNG['registerRulesDesc']			= 'Mi akceptas %s';
 
-$LNG['registerBack']				= 'Back';
-$LNG['registerNext']				= 'Next';
+$LNG['registerBack']				= 'Malsekva';
+$LNG['registerNext']				= 'Sekva';
 
-$LNG['registerErrorUniClosed']		= 'The registration is closed in this universe.!';
-$LNG['registerErrorUsernameEmpty']	= 'You must enter a username!';
-$LNG['registerErrorUsernameChar']	= 'Your username must consist in numbers, Letters, Spaces, _, -, . only!';
-$LNG['registerErrorUsernameExist']	= 'The username is already taken!';
+$LNG['registerErrorUniClosed']		= 'La registro estas fermita en ĉi tiu universo.';
+$LNG['registerErrorUsernameEmpty']	= 'Enskribu uzantnomon!';
+$LNG['registerErrorUsernameChar']	= 'Via uzantnomo devas enhavi nur nombrojn, leterojn, spacojn, _, -, . !';
+$LNG['registerErrorUsernameExist']	= 'Uzantnomo estas okupita!';
 $LNG['registerErrorPasswordLength']	= 'The password must be at least 6 characters long!';
 $LNG['registerErrorPasswordSame']	= 'Entering 2 different Passwords!';
 $LNG['registerErrorMailEmpty']		= 'You must specify an E-Mail address!';
