@@ -14,18 +14,18 @@
  * @link https://github.com/jkroepke/2Moons
  */
 
-// Translated into English by QwataKayean . All rights reversed (C) 2012
+// Translated into Esperanto by Dotevo .
 // 2Moons - Copyright (C) 2010-2012 J�n Kropke
 
 // Site Title
-$LNG['siteTitleIndex']				= 'Index';
+$LNG['siteTitleIndex']				= 'Indekso';
 $LNG['siteTitleRegister']			= 'Register';
-$LNG['siteTitleScreens']			= 'Screenshots';
-$LNG['siteTitleBanList']			= 'Banned Hall';
-$LNG['siteTitleBattleHall']			= 'Battle Hall';
-$LNG['siteTitleRules']				= 'Rules';
-$LNG['siteTitleNews']				= 'News';
-$LNG['siteTitleDisclamer']			= 'Contacts';
+$LNG['siteTitleScreens']			= 'Ekrankopioj';
+$LNG['siteTitleBanList']			= 'Forbarantoj';
+$LNG['siteTitleBattleHall']			= 'Bataloj';
+$LNG['siteTitleRules']				= 'Reguloj';
+$LNG['siteTitleNews']				= 'Novaĵoj';
+$LNG['siteTitleDisclamer']			= 'Kontaktoj';
 $LNG['siteTitleLostPassword']		= 'Lost Password?';
 
 // Menu

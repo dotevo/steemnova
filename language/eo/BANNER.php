@@ -20,12 +20,12 @@
 
 
  
-$LNG['ub_points']		= 'Points';
-$LNG['ub_fleets']		= 'Fleet';
-$LNG['ub_researh']		= 'Research';
-$LNG['ub_buildings']	= 'Buildings';
-$LNG['ub_defenses']		= 'Defenses';
+$LNG['ub_points']		= 'Punktoj';
+$LNG['ub_fleets']		= 'Ŝiparo';
+$LNG['ub_researh']		= 'Esploro';
+$LNG['ub_buildings']	= 'Konstruaĵoj';
+$LNG['ub_defenses']		= 'Defendo';
 
-$LNG['ub_fights']		= 'Battles';
-$LNG['ub_quote']		= 'Quote';
-$LNG['ub_rank']			= 'Position';
+$LNG['ub_fights']		= 'Bataloj';
+$LNG['ub_quote']		= 'Citaĵo';
+$LNG['ub_rank']			= 'Vico';

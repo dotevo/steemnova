@@ -15,73 +15,73 @@
  */
 
 
-// Translated into English by QwataKayean . All rights reversed (C) 2012
+// Translated into Esperanto by Dotevo . All rights reversed (C) 2012
 // 2Moons - Copyright (C) 2010-2012 Slaver
 
 
 //---------------	Geral	------------------------//
-$LNG['adm_login'] = 'Login';
-$LNG['adm_username'] = 'Username';
-$LNG['adm_password'] = 'Password';
-$LNG['adm_absenden'] = 'Enter';
-$LNG['adm_password_info'] = 'Write your password in order to enter';
-$LNG['adm_bad_password'] = 'Wrong Password!';
-$LNG['404_page'] = 'You do not have permissions to access this page';
-$LNG['adm_cp_title'] = 'Administration Panel';
-$LNG['adm_cp_index'] = 'Start';
-$LNG['mu_moderation_page'] = 'Permissions';
-$LNG['mu_universe'] = 'Universe';
-$LNG['adm_cp_logout'] = 'Back to Game';
+$LNG['adm_login'] = 'Ensaluti';
+$LNG['adm_username'] = 'Uzantnomo';
+$LNG['adm_password'] = 'Pasvorto';
+$LNG['adm_absenden'] = 'Sendi';
+$LNG['adm_password_info'] = 'Enmetu vian pasvorton.';
+$LNG['adm_bad_password'] = 'Malĝusta pasvorto!';
+$LNG['404_page'] = 'Vi ne rajtas aliri ĉi tiun paĝon';
+$LNG['adm_cp_title'] = 'Administra Panelo';
+$LNG['adm_cp_index'] = 'Ĉefa';
+$LNG['mu_moderation_page'] = 'Permesoj';
+$LNG['mu_universe'] = 'Universo';
+$LNG['adm_cp_logout'] = 'Reen al ludo';
 
 //	Miscelâneo
 $LNG['ad_number'] = 'ID';
 $LNG['ad_max'] = '(max. %d)';
-$LNG['only_numbers'] = 'You can only enter numbers!';
-$LNG['select_option'] = 'Choose the option ...';
+$LNG['only_numbers'] = 'Vi nur povas enskribi nombrojn!';
+$LNG['select_option'] = 'Elektu la opcion ...';
 
 // 	Rank
-$LNG['rank_0'] = 'Player';
-$LNG['rank_1'] = 'Moderator';
-$LNG['rank_2'] = 'Operator';
-$LNG['rank_3'] = 'Admin';
+$LNG['rank_0'] = 'Ludanto';
+$LNG['rank_1'] = 'Moderigisto';
+$LNG['rank_2'] = 'Operacianto';
+$LNG['rank_3'] = 'Admino';
 
 
 // 	Tempo
-$LNG['time_days'] = 'Days';
-$LNG['time_hours'] = 'Hour';
-$LNG['time_minutes'] = 'Minutes';
-$LNG['time_seconds'] = 'Seconds';
+$LNG['time_days'] = 'Tagoj';
+$LNG['time_hours'] = 'Horoj';
+$LNG['time_minutes'] = 'Minutoj';
+$LNG['time_seconds'] = 'Sekundoj';
 //###########################################################//
 
 $LNG['info_information'] = 'Send or report bugs in the forum for <a href="%s" target="tracker">2Moons</a><br>Otherwise there will be support!';
 
 //---------------	Sim ou não	------------------------//
-$LNG['one_is_yes_1'] = 'Yes';
-$LNG['one_is_yes_0'] = 'no';
+$LNG['one_is_yes_1'] = 'Jes';
+$LNG['one_is_yes_0'] = 'Ne';
 
-$LNG['one_is_no_1'] = 'Yes';
-$LNG['one_is_no_0'] = 'no';
+$LNG['one_is_no_1'] = 'Jes';
+$LNG['one_is_no_0'] = 'Ne';
 //###########################################################//
 
 
 //---------------	Botões	------------------------//
-$LNG['button_submit'] = 'Send';
-$LNG['button_add'] = 'Profile';
-$LNG['button_delete'] = 'Delete';
-$LNG['button_filter'] = 'Filter';
-$LNG['button_deselect'] = 'Delete selected';
-$LNG['button_reset'] = 'Reset';
-$LNG['button_des_se'] = 'Select all or deselect';
+$LNG['button_submit'] = 'Sendi';
+$LNG['button_add'] = 'Aldoni';
+$LNG['button_delete'] = 'Forigi';
+$LNG['button_filter'] = 'Filtri';
+$LNG['button_deselect'] = 'Foriri elektatajn';
+$LNG['button_reset'] = 'Rekomencigi';
+$LNG['button_des_se'] = 'Eleki/malelekti ĉiujn';
 //###########################################################//
 
 
 //---------------	ID's	------------------------//
 $LNG['input_id'] = 'ID';
-$LNG['input_id_user'] = 'Player ID';
-$LNG['input_id_planet'] = 'Planet ID';
-$LNG['input_id_moon'] = 'Moon ID';
-$LNG['input_id_p_m'] = 'ID of the planet or Moon';
-$LNG['input_id_ally'] = 'ID of the Alliance';
+$LNG['input_id_user'] = 'Ludanto ID';
+$LNG['input_id_planet'] = 'Plandeo ID';
+$LNG['input_id_moon'] = 'Luno ID';
+$LNG['input_id_p_m'] = 'ID de la plandeo aŭ luno';
+$LNG['input_id_ally'] = 'ID de la alianco';
 //###########################################################//
 
 
