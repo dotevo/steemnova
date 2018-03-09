@@ -19,25 +19,25 @@
 
 
 
-$LNG['Messages']							= 'Messages';
+$LNG['Messages']							= 'Mesaĝojn';
 
 $LNG['PM']									= '[PM]';
-$LNG['write_message']						= 'Write message';
+$LNG['write_message']						= 'Skribi mesaĝon';
 
-$LNG['ready']								= 'Ready';
+$LNG['ready']								= 'Preta';
 
-$LNG['loading']								= 'Loading ...';
+$LNG['loading']								= 'Ŝarĝado ...';
 
 $LNG['invalid_action']						= 'Action Invalidated!!';
 
-$LNG['type_mission_1']  					= 'Attack';
-$LNG['type_mission_2']  					= 'ACS - Attack on cooperation';
-$LNG['type_mission_3']  					= 'Transport';
+$LNG['type_mission_1']  					= 'Ataki';
+$LNG['type_mission_2']  					= 'ACS - Kunatako';
+$LNG['type_mission_3']  					= 'Transporti';
 $LNG['type_mission_4']  					= 'Deploy';
-$LNG['type_mission_5']  					= 'Transfer';
-$LNG['type_mission_6']  					= 'Spying';
-$LNG['type_mission_7']  					= 'Colonize';
-$LNG['type_mission_8']  					= 'Recycle';
+$LNG['type_mission_5']  					= 'Translokigi';
+$LNG['type_mission_6']  					= 'Spioni';
+$LNG['type_mission_7']  					= 'Kolonigi';
+$LNG['type_mission_8']  					= 'Recikli';
 $LNG['type_mission_9']  					= 'Destroy';
 $LNG['type_mission_10']  					= 'Missile attack';
 $LNG['type_mission_11']  					= 'Research of Dark matter ';
