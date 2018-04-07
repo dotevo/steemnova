@@ -528,7 +528,10 @@ class ShowAlliancePage extends AbstractGamePage
 
 		if(!empty($this->allianceData['ally_events']))
 		{
-			$sql = "SELECT id, username FROM %%USERS%% WHERE ally_id = :AllianceID;";
+			$sql = "SELECT id, username FROM DB.uni1_users WHERE ally_id IN (SELECT :AllianceID UNION
+SELECT owner_2 as al  FROM DB.uni1_diplo WHERE level < 3 AND accept = 1 AND owner_1 = :AllianceID
+UNION
+SELECT owner_1 as al  FROM DB.uni1_diplo WHERE level < 3 AND accept = 1 AND owner_2 = :AllianceID);";
 			$result = $db->select($sql, array(
 				':AllianceID'	=> $this->allianceData['id']
 			));
